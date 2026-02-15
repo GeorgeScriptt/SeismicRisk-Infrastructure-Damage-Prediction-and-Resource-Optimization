@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+_pycache_/
+*.pyc 
+*.sqlite
+*.ipynb_checkpoints
+desktop.ini 
